@@ -1,0 +1,4 @@
+1. Each parent container has width 600px and border of 1px;
+2. Each children box has width 180px and height 100px as well as margin of 10px;
+3. Each children box which are having border has border-width 1px.
+Note: in the first container the boxes does not have any border.
